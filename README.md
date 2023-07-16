@@ -18,12 +18,19 @@ To see the `examen.cpp` code online, click the link below:
 Screenshots:
 
 <img width="985" alt="Screenshot 2022-06-26 at 16 30 42" src="https://github.com/laurapall/Parking-Fee-Calculator-/assets/48211193/796ee38c-9031-4a21-ab8a-6771e28f1b60">
+<br><br>
 
 <img width="2048" alt="Screenshot 2022-06-26 at 16 31 39" src="https://github.com/laurapall/Parking-Fee-Calculator-/assets/48211193/4e56a1bb-630c-4ab5-9972-9be9cd0e8f94">
 
+<br><br>
+
 <img width="2048" alt="Screenshot 2022-06-26 at 16 37 51" src="https://github.com/laurapall/Parking-Fee-Calculator-/assets/48211193/85a21a5e-3d55-423d-a1b1-f6bca3a1b20a">
+
+<br><br>
+
 <img width="2048" alt="Screenshot 2022-06-26 at 16 38 10" src="https://github.com/laurapall/Parking-Fee-Calculator-/assets/48211193/976613af-be88-4568-8c68-e88c521aaf77">
 
+<br><br>
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out to me at [flaurapall@gmail.com].
@@ -33,4 +40,6 @@ If you have any questions or suggestions, feel free to reach out to me at [flaur
 ## Notes
 In the code, I have used "in-line" comments introduced by `//` to explain various sections.
 
-![Console Output](path/to/your/console_output.png)
+## Author
+Pall Laura
+
